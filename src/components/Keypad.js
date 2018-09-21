@@ -11,6 +11,10 @@ render(){
   return (
 <input type="password" onKeyUp={this.inputPassword} />
   )
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> cc9aee2d83b7defa20d0996b850264b157d10e4d
 }
 }
